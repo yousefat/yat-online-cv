@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Professional Accountant turned to HR. I started my career in the prestigious financial advisory firm EY, but changed jobs very early on and converted to the function of human resources in the specialty of compensation management.',
+    'Professional Accountant turned to HR. I started my career in the prestigious financial advisory firm EY, but changed jobs very early on and converted to the function of Human Resources in the specialty of Compensation Management.',
   paragraphTwo:
     'I have been a dedicated and passionate compensation professional ever since. I became certified with the global leader of the compensation practice, WorldatWork (formerly, the American Compensation Association) in 2019, in two of their flagship certifications.',
   paragraphThree:
-    'The Certified Compensation Professional (CCP) and the Global Remuneration Professional (GRP). I am always in the hunt for new thoughts and ideas and I regularly update my portfolio of skills. I am also a committed life-long learner and student.',
+    'The Certified Compensation Professional (CCP) and the Global Remuneration Professional (GRP). I am always on the hunt for new thoughts and ideas and I regularly update my portfolio of skills. I am also a committed life-long learner and student.',
   resume: 'https://drive.google.com/uc?export=download&id=1Gw3vi4MUj9s_KTJf1gjFIXx0v98HZt3o', // if no resume, the button will not show up
 };
 
