@@ -5,10 +5,9 @@
 
 ## Note
 
-- The complete source code of the website is open source can be forked from (https://github.com/cobidev/simplefolio)
+- The complete source code of the website is open source and can be forked from (https://github.com/cobidev/simplefolio)
+- The website is deployed to Netlify at (https://yousefalturkey.sa)
 
 - Thank you,
 
 - Yousef Alturkey
-- https://yousefalturkey.sa
-- hi@yousefalturkey.sa
