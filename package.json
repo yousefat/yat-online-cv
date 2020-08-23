@@ -1,7 +1,7 @@
 {
   "name": "yousef-alturkey-online-cv",
   "private": true,
-  "description": "A simplified minimal and responsive online cv",
+  "description": "A simplified minimal and responsive online resume",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {

@@ -37,12 +37,7 @@ const Footer = () => {
             })}
         </div>
         <hr />
-        <p className="footer__text">
-          © {new Date().getFullYear()} - All rights reserved to their{' '}
-          <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">
-            respective owners.
-          </a>
-        </p>
+        <p className="footer__text">© {new Date().getFullYear()} | Thank you for visiting </p>
 
         {isEnabled && <GithubButtons />}
       </Container>

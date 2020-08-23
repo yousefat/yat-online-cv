@@ -4,14 +4,14 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Yousef Alturkey, CCP, GRP', // e.g: 'Name | Developer'
   lang: 'ar', // e.g: en, es, fr, jp
-  description: 'Welcome to my website', // e.g: Welcome to my website
+  description: 'Welcome to my online resume and personal website', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: 'Hi, my name is',
   name: 'Yousef',
-  subtitle: `I'm Compensation Analyst`,
+  subtitle: `I'm a Compensation Analyst`,
   cta: 'Know more',
 };
 
