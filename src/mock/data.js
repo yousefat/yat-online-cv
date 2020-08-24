@@ -36,7 +36,7 @@ export const projectsData = [
     info:
       'I hold a 1st hons. BS. Degree in Accounting, Business Administration from the University of Business & Technology (UBT) and I am currently completing my MS. Degree in Organizational Psychology from the University of London. In addition to my CCP and GRP designations I hold various top-level professional certifications and qualifications. For more information on those please refer to my resume.',
     info2: '',
-    url: '',
+    url: 'https://github.com/yousefat',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -46,7 +46,7 @@ export const projectsData = [
     info:
       'I specialize in the planning, design, and implementation of rewards systems. My portfolio of skills includes, data analytics and processing, statistics, business and financial acumen, project management, labor law, and corporate-level communications.',
     info2: '',
-    url: '',
+    url: 'https://github.com/yousefat',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -55,7 +55,7 @@ export const projectsData = [
     title: 'Work Experience',
     info: `I worked for very large and prestigious firms such as, EY Middle East and Almarai Company both of which are world-class leaders in  their respective sectors. Currently, I am part of the team managing the rewards system of the Saudi Industrial Development Fund, a major financial enabler for various programs of Saudi Arabia's 2030 vision.`,
     info2: '',
-    url: '',
+    url: 'https://github.com/yousefat',
     repo: '', // if no repo, the button will not show up
   },
 ];
