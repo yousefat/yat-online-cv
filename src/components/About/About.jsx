@@ -47,7 +47,7 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
-                </p style={paddingTop="5px"}>
+                </p paddingTop="5px">
                 {resume && (
                   <span>
                     <a
