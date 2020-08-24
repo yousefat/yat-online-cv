@@ -49,7 +49,7 @@ const About = () => {
                   {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
                 </p>
                 {resume && (
-                  <span align="left">
+                  <span>
                     <a
                       className="cta-btn cta-btn--resume"
                       href={resume}
