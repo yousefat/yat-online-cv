@@ -3,7 +3,7 @@ import { nanoid } from 'nanoid';
 // HEAD DATA
 export const headData = {
   title: 'Yousef Alturkey, CCP, GRP', // e.g: 'Name | Developer'
-  lang: 'ar', // e.g: en, es, fr, jp
+  lang: 'en', // e.g: en, es, fr, jp
   description: 'Welcome to my online resume and personal website', // e.g: Welcome to my website
 };
 
