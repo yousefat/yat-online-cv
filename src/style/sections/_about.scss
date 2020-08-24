@@ -50,6 +50,7 @@
       &-text {
         text-align: justify;
         font-size: 1.6rem;
+        padding-top: 3px;
 
         @include respond(tab-port) {
           font-size: 1.6rem;
